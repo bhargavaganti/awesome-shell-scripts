@@ -1,5 +1,3 @@
-# iwouldrathercode/awesome-shell-scripts
-
 A curated list of shell scripts each for installing and configuring different web applications - (UN-MAINTAINED there are better approaches like docker / kubernetes to achieve the same now
 
 # Usage
